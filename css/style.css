@@ -1,0 +1,54 @@
+button {
+    width:70px;
+    height:70px;
+  }
+
+  .calculatrice{
+    opacity: 0.8;
+    width: 23.5%;
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-top: 100px;
+    background-color: darkgoldenrod;
+  }
+
+  .table{
+    margin: 0px;
+  }
+
+  table tr td{
+   margin-left: 10px;
+    margin: 0px;
+  }
+
+  table tr td button{
+  font-size: 25px;
+   }
+
+  .input{
+    width: 97%;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+
+  .green{
+    background-color: green;
+    color: white;
+  }
+
+  .orange{
+    background-color: orange;
+    color: white;
+  }
+
+  .reset{
+    width: 100%;
+    background-color: rgb(63, 198, 228);
+    color: white;
+  }
+  .clear{
+    width: 100%;
+    background-color: red;
+    color: white;
+  }
